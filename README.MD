@@ -1,3 +1,6 @@
+
+**项目已迁移到[USTCNoZeng418Lab/Lab418Site](https://github.com/USTCNoZeng418Lab/Lab418Site)**，请勿再基于本项目开发
+
 # Lab418实验室网站
 
 USTC网络安全实验室网站代码，采用SpringBoot编写，
